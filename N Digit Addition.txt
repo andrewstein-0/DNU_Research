@@ -1,0 +1,414 @@
+Running 100 trials — this may take a few minutes...
+
+   Run    B time   B epochs   A+C time   A+C epochs  Faster
+------------------------------------------------------------
+  100% at epoch 441
+  100% at epoch 258
+  100% at epoch 114
+     1    0.645s         441     0.481s           372     A+C
+  100% at epoch 331
+  100% at epoch 241
+  100% at epoch 160
+     2    0.480s         331     0.469s           401     A+C
+  100% at epoch 381
+  100% at epoch 224
+  100% at epoch 130
+     3    0.592s         381     0.466s           354     A+C
+  100% at epoch 385
+  100% at epoch 239
+  100% at epoch 137
+     4    0.592s         385     0.439s           376     A+C
+  100% at epoch 375
+  100% at epoch 230
+  100% at epoch 228
+     5    0.538s         375     0.579s           458     B
+  100% at epoch 364
+  100% at epoch 216
+  100% at epoch 114
+     6    0.506s         364     0.415s           330     A+C
+  100% at epoch 347
+  100% at epoch 284
+  100% at epoch 156
+     7    0.500s         347     0.538s           440     B
+  100% at epoch 378
+  100% at epoch 221
+  100% at epoch 125
+     8    0.557s         378     0.436s           346     A+C
+  100% at epoch 356
+  100% at epoch 226
+  100% at epoch 100
+     9    0.527s         356     0.443s           326     A+C
+  100% at epoch 406
+  100% at epoch 221
+  100% at epoch 94
+    10    0.664s         406     0.445s           315     A+C
+  100% at epoch 372
+  100% at epoch 228
+  100% at epoch 173
+    11    0.513s         372     0.501s           401     A+C
+  100% at epoch 330
+  100% at epoch 223
+  100% at epoch 135
+    12    0.500s         330     0.463s           358     A+C
+  100% at epoch 349
+  100% at epoch 227
+  100% at epoch 143
+    13    0.511s         349     0.516s           370     B
+  100% at epoch 332
+  100% at epoch 213
+  100% at epoch 217
+    14    0.594s         332     0.575s           430     A+C
+  100% at epoch 396
+  100% at epoch 245
+  100% at epoch 121
+    15    0.651s         396     0.521s           366     A+C
+  100% at epoch 351
+  100% at epoch 234
+  100% at epoch 198
+    16    0.511s         351     0.562s           432     B
+  100% at epoch 367
+  100% at epoch 205
+  100% at epoch 163
+    17    0.643s         367     0.537s           368     A+C
+  100% at epoch 388
+  100% at epoch 213
+  100% at epoch 204
+    18    0.608s         388     0.595s           417     A+C
+  100% at epoch 391
+  100% at epoch 213
+  100% at epoch 175
+    19    0.623s         391     0.529s           388     A+C
+  100% at epoch 373
+  100% at epoch 226
+  100% at epoch 191
+    20    0.595s         373     0.553s           417     A+C
+  100% at epoch 405
+  100% at epoch 212
+  100% at epoch 199
+    21    0.611s         405     0.504s           411     A+C
+  100% at epoch 406
+  100% at epoch 238
+  100% at epoch 99
+    22    0.663s         406     0.422s           337     A+C
+  100% at epoch 424
+  100% at epoch 219
+  100% at epoch 175
+    23    0.695s         424     0.517s           394     A+C
+  100% at epoch 341
+  100% at epoch 219
+  100% at epoch 142
+    24    0.560s         341     0.466s           361     A+C
+  100% at epoch 333
+  100% at epoch 227
+  100% at epoch 98
+    25    0.525s         333     0.439s           325     A+C
+  100% at epoch 347
+  100% at epoch 226
+  100% at epoch 98
+    26    0.558s         347     0.475s           324     A+C
+  100% at epoch 349
+  100% at epoch 210
+  100% at epoch 124
+    27    0.563s         349     0.431s           334     A+C
+  100% at epoch 384
+  100% at epoch 208
+  100% at epoch 169
+    28    0.530s         384     0.505s           377     A+C
+  100% at epoch 379
+  100% at epoch 221
+  100% at epoch 96
+    29    0.598s         379     0.424s           317     A+C
+  100% at epoch 405
+  100% at epoch 200
+  100% at epoch 237
+    30    0.596s         405     0.608s           437     B
+  100% at epoch 381
+  100% at epoch 232
+  100% at epoch 122
+    31    0.583s         381     0.427s           354     A+C
+  100% at epoch 369
+  100% at epoch 249
+  100% at epoch 198
+    32    0.683s         369     0.489s           447     A+C
+  100% at epoch 414
+  100% at epoch 232
+  100% at epoch 186
+    33    0.647s         414     0.548s           418     A+C
+  100% at epoch 414
+  100% at epoch 221
+  100% at epoch 224
+    34    0.671s         414     0.598s           445     A+C
+  100% at epoch 327
+  100% at epoch 217
+  100% at epoch 157
+    35    0.524s         327     0.536s           374     B
+  100% at epoch 325
+  100% at epoch 244
+  100% at epoch 125
+    36    0.593s         325     0.559s           369     A+C
+  100% at epoch 395
+  100% at epoch 212
+  100% at epoch 154
+    37    0.605s         395     0.512s           366     A+C
+  100% at epoch 369
+  100% at epoch 225
+  100% at epoch 123
+    38    0.530s         369     0.435s           348     A+C
+  100% at epoch 351
+  100% at epoch 238
+  100% at epoch 115
+    39    0.564s         351     0.415s           353     A+C
+  100% at epoch 335
+  100% at epoch 221
+  100% at epoch 112
+    40    0.463s         335     0.440s           333     A+C
+  100% at epoch 361
+  100% at epoch 217
+  100% at epoch 212
+    41    0.517s         361     0.533s           429     B
+  100% at epoch 360
+  100% at epoch 227
+  100% at epoch 123
+    42    0.588s         360     0.436s           350     A+C
+  100% at epoch 429
+  100% at epoch 220
+  100% at epoch 194
+    43    0.679s         429     0.548s           414     A+C
+  100% at epoch 407
+  100% at epoch 218
+  100% at epoch 140
+    44    0.716s         407     0.485s           358     A+C
+  100% at epoch 310
+  100% at epoch 243
+  100% at epoch 151
+    45    0.500s         310     0.530s           394     B
+  100% at epoch 392
+  100% at epoch 244
+  100% at epoch 145
+    46    0.618s         392     0.527s           389     A+C
+  100% at epoch 339
+  100% at epoch 232
+  100% at epoch 127
+    47    0.505s         339     0.451s           359     A+C
+  100% at epoch 357
+  100% at epoch 243
+  100% at epoch 81
+    48    0.523s         357     0.423s           324     A+C
+  100% at epoch 386
+  100% at epoch 228
+  100% at epoch 91
+    49    0.609s         386     0.395s           319     A+C
+  100% at epoch 405
+  100% at epoch 223
+  100% at epoch 130
+    50    0.548s         405     0.472s           353     A+C
+  100% at epoch 418
+  100% at epoch 237
+  100% at epoch 107
+    51    0.591s         418     0.468s           344     A+C
+  100% at epoch 345
+  100% at epoch 225
+  100% at epoch 162
+    52    0.490s         345     0.502s           387     B
+  100% at epoch 356
+  100% at epoch 227
+  100% at epoch 152
+    53    0.531s         356     0.489s           379     A+C
+  100% at epoch 372
+  100% at epoch 246
+  100% at epoch 159
+    54    0.612s         372     0.487s           405     A+C
+  100% at epoch 449
+  100% at epoch 230
+  100% at epoch 136
+    55    0.759s         449     0.496s           366     A+C
+  100% at epoch 416
+  100% at epoch 229
+  100% at epoch 156
+    56    0.639s         416     0.541s           385     A+C
+  100% at epoch 324
+  100% at epoch 228
+  100% at epoch 179
+    57    0.521s         324     0.566s           407     B
+  100% at epoch 369
+  100% at epoch 212
+  100% at epoch 93
+    58    0.561s         369     0.470s           305     A+C
+  100% at epoch 360
+  100% at epoch 211
+  100% at epoch 151
+    59    0.588s         360     0.430s           362     A+C
+  100% at epoch 315
+  100% at epoch 246
+  100% at epoch 200
+    60    0.519s         315     0.664s           446     B
+  100% at epoch 335
+  100% at epoch 219
+  100% at epoch 130
+    61    0.559s         335     0.467s           349     A+C
+  100% at epoch 413
+  100% at epoch 215
+  100% at epoch 158
+    62    0.628s         413     0.481s           373     A+C
+  100% at epoch 370
+  100% at epoch 229
+  100% at epoch 200
+    63    0.560s         370     0.559s           429     A+C
+  100% at epoch 389
+  100% at epoch 231
+  100% at epoch 123
+    64    0.625s         389     0.462s           354     A+C
+  100% at epoch 342
+  100% at epoch 208
+  100% at epoch 99
+    65    0.527s         342     0.407s           307     A+C
+  100% at epoch 331
+  100% at epoch 217
+  100% at epoch 153
+    66    0.550s         331     0.460s           370     A+C
+  100% at epoch 385
+  100% at epoch 235
+  100% at epoch 119
+    67    0.579s         385     0.475s           354     A+C
+  100% at epoch 355
+  100% at epoch 228
+  100% at epoch 138
+    68    0.532s         355     0.504s           366     A+C
+  100% at epoch 322
+  100% at epoch 241
+  100% at epoch 207
+    69    0.547s         322     0.579s           448     B
+  100% at epoch 326
+  100% at epoch 225
+  100% at epoch 118
+    70    0.549s         326     0.426s           343     A+C
+  100% at epoch 360
+  100% at epoch 245
+  100% at epoch 163
+    71    0.538s         360     0.577s           408     B
+  100% at epoch 422
+  100% at epoch 205
+  100% at epoch 242
+    72    0.689s         422     0.658s           447     A+C
+  100% at epoch 400
+  100% at epoch 221
+  100% at epoch 154
+    73    0.629s         400     0.547s           375     A+C
+  100% at epoch 458
+  100% at epoch 197
+  100% at epoch 108
+    74    0.708s         458     0.394s           305     A+C
+  100% at epoch 368
+  100% at epoch 241
+  100% at epoch 182
+    75    0.551s         368     0.582s           423     B
+  100% at epoch 383
+  100% at epoch 228
+  100% at epoch 127
+    76    0.601s         383     0.450s           355     A+C
+  100% at epoch 394
+  100% at epoch 225
+  100% at epoch 174
+    77    0.637s         394     0.559s           399     A+C
+  100% at epoch 366
+  100% at epoch 218
+  100% at epoch 142
+    78    0.518s         366     0.452s           360     A+C
+  100% at epoch 396
+  100% at epoch 222
+  100% at epoch 158
+    79    0.682s         396     0.479s           380     A+C
+  100% at epoch 348
+  100% at epoch 233
+  100% at epoch 106
+    80    0.535s         348     0.460s           339     A+C
+  100% at epoch 345
+  100% at epoch 225
+  100% at epoch 126
+    81    0.543s         345     0.487s           351     A+C
+  100% at epoch 358
+  100% at epoch 226
+  100% at epoch 90
+    82    0.543s         358     0.409s           316     A+C
+  100% at epoch 359
+  100% at epoch 255
+  100% at epoch 192
+    83    0.632s         359     0.593s           447     A+C
+  100% at epoch 353
+  100% at epoch 243
+  100% at epoch 112
+    84    0.564s         353     0.450s           355     A+C
+  100% at epoch 349
+  100% at epoch 220
+  100% at epoch 153
+    85    0.552s         349     0.489s           373     A+C
+  100% at epoch 378
+  100% at epoch 216
+  100% at epoch 204
+    86    0.578s         378     0.556s           420     A+C
+  100% at epoch 363
+  100% at epoch 212
+  100% at epoch 223
+    87    0.584s         363     0.526s           435     A+C
+  100% at epoch 340
+  100% at epoch 226
+  100% at epoch 243
+    88    0.541s         340     0.597s           469     B
+  100% at epoch 319
+  100% at epoch 228
+  100% at epoch 138
+    89    0.505s         319     0.444s           366     A+C
+  100% at epoch 401
+  100% at epoch 219
+  100% at epoch 139
+    90    0.638s         401     0.469s           358     A+C
+  100% at epoch 396
+  100% at epoch 216
+  100% at epoch 143
+    91    0.615s         396     0.414s           359     A+C
+  100% at epoch 332
+  100% at epoch 228
+  100% at epoch 205
+    92    0.539s         332     0.592s           433     B
+  100% at epoch 399
+  100% at epoch 222
+  100% at epoch 134
+    93    0.581s         399     0.495s           356     A+C
+  100% at epoch 385
+  100% at epoch 231
+  100% at epoch 194
+    94    0.531s         385     0.551s           425     B
+  100% at epoch 432
+  100% at epoch 221
+  100% at epoch 126
+    95    0.620s         432     0.466s           347     A+C
+  100% at epoch 375
+  100% at epoch 218
+  100% at epoch 129
+    96    0.569s         375     0.539s           347     A+C
+  100% at epoch 388
+  100% at epoch 227
+  100% at epoch 116
+    97    0.607s         388     0.443s           343     A+C
+  100% at epoch 371
+  100% at epoch 214
+  100% at epoch 139
+    98    0.601s         371     0.451s           353     A+C
+  100% at epoch 362
+  100% at epoch 210
+  100% at epoch 163
+    99    0.567s         362     0.600s           373     B
+  100% at epoch 384
+  100% at epoch 203
+  100% at epoch 229
+   100    0.677s         384     0.597s           432     A+C
+
+============================================================
+B   wins : 18/100
+A+C wins : 82/100
+
+Strategy   Mean time   Median time   Std time   Mean epochs
+-------------------------------------------------------------
+B          0.581s      0.573s        0.059s     372
+A+C        0.499s      0.488s        0.061s     377
+============================================================
